@@ -15,7 +15,6 @@ login to user
 clone this repository
 
 $: git clone https://github.com/aburaza/hyperledger.git
-copy all files to home 
 
 $: cd shellscript
 
